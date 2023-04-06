@@ -1,0 +1,3 @@
+# ignore the release folder
+bin/
+.vs/

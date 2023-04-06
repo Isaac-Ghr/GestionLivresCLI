@@ -1,0 +1,25 @@
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.deps.json
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.runtimeconfig.json
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.runtimeconfig.dev.json
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.dll
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.pdb
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.csprojAssemblyReference.cache
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.csproj.CoreCompileInputs.cache
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.AssemblyInfoInputs.cache
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.AssemblyInfo.cs
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.dll
+E:\Documents\Developpement Projects\VS CB Projects\GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.pdb
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.deps.json
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.runtimeconfig.json
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.runtimeconfig.dev.json
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.dll
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\GestionLivres.pdb
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\BibliLib.dll
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.csprojAssemblyReference.cache
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.csproj.CoreCompileInputs.cache
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.AssemblyInfoInputs.cache
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.AssemblyInfo.cs
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.csproj.CopyComplete
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.dll
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\obj\Debug\netcoreapp2.1\GestionLivres.pdb
+E:\Documents\Developpement Projects\VS CB Projects\Cs - [TP] GestionLivres\bin\Debug\netcoreapp2.1\Entree.dll

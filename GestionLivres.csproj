@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BibliLib">
+      <HintPath>..\Cs - [DLL] BibliLib\bin\Debug\netstandard2.0\BibliLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Entree">
+      <HintPath>Entree.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
